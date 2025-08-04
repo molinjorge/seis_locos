@@ -1,4 +1,9 @@
 "use client"
+console.log("Card", Card);
+console.log("CardHeader", CardHeader);
+console.log("CardTitle", CardTitle);
+console.log("CardContent", CardContent);
+console.log("CardDescription", CardDescription);
 
 import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
